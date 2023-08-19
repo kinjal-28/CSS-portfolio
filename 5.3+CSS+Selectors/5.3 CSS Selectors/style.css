@@ -1,0 +1,35 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+
+/* 1st task*/
+p{
+  color: red;
+}
+
+/* 2nd task*/
+note{
+  font-size: 20px;
+}
+
+/* 3rd task*/
+#id-selector-demo{
+  color: green;
+}
+
+/* 4th task*/
+li[value="4"]
+{
+  color: blue;
+}
+
+/* 5th task */
+*{
+  text-align: center;
+}
+  

@@ -1,0 +1,33 @@
+/* Don't change the existing CSS. */
+
+
+#outer-box{
+  background-color:  purple;
+}
+
+.box {
+  background-color: rgb(14, 14, 148);
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+.inner-box{
+  background-color: red;
+  color: white;
+}
+
+/*.white-text{
+  color: white;
+}*/
+
+
+
+
+/* .box and .inner-box have same specificity so position must be checked
+if red>blue then red is below blue*/
+
